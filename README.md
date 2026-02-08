@@ -1,32 +1,31 @@
-\# Support Ticket Management System
+# Support Ticket Management System
 
 
 
 Full-stack web application built using:
 
-\- Strapi (Headless CMS) as backend
+- Strapi (Headless CMS) as backend
 
-\- React (Vite) as frontend
+- React (Vite) as frontend
 
-\- JWT Authentication
+- JWT Authentication
 
-\- Role-Based Access Control (Admin / User)
+- Role-Based Access Control (Admin / User)
 
 
-
-\## Architecture
+## Architecture
 
 React UI → Strapi REST APIs → Database
 
 
 
-\## Features (Planned)
+## Features (Planned)
 
-\- User authentication
+- User authentication
 
-\- Create and track support tickets
+- Create and track support tickets
 
-\- Admin dashboard to manage ticket status
+- Admin dashboard to manage ticket status
 
-\- Role-based access control
+- Role-based access control
 
