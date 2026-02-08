@@ -1,0 +1,21 @@
+# Node
+node_modules
+npm-debug.log
+yarn.lock
+
+# Env files
+.env
+.env.*
+
+# Strapi
+backend/.cache
+backend/build
+backend/.tmp
+backend/database
+
+# Vite / React
+frontend/dist
+
+# OS
+.DS_Store
+Thumbs.db
